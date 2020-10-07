@@ -1,0 +1,18 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #f7edd5;
+}
+
+/* .dropdown-content li a {
+    /*change color of text inside dropdown
+} */
+
+/* .hidden-content{
+    display: none !important;
+  } */
+
+.chart-heat-map{
+    font-size: 18px !important;
+    color: black !important;
+}
+
